@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioV1.0", "InventarioV1.0\InventarioV1.0.csproj", "{B9FA7F7E-C41F-4251-BED6-A4CAEB364451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventarioV1.0", "InventarioV1.0\InventarioV1.0.csproj", "{B9FA7F7E-C41F-4251-BED6-A4CAEB364451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventario.AccesoDatos", "Inventario.AccesoDatos\Inventario.AccesoDatos.csproj", "{0D3B06A8-F90C-4108-ABD3-35C5159D4504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventario.Modelos", "Inventario.Modelos\Inventario.Modelos.csproj", "{86EC0C2E-E792-40D7-A033-82928F4D3D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventario.Utilidades", "Inventario.Utilidades\Inventario.Utilidades.csproj", "{CEDF45AA-71A2-4C53-9827-6A0F235910F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B9FA7F7E-C41F-4251-BED6-A4CAEB364451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FA7F7E-C41F-4251-BED6-A4CAEB364451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FA7F7E-C41F-4251-BED6-A4CAEB364451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3B06A8-F90C-4108-ABD3-35C5159D4504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3B06A8-F90C-4108-ABD3-35C5159D4504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3B06A8-F90C-4108-ABD3-35C5159D4504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3B06A8-F90C-4108-ABD3-35C5159D4504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EC0C2E-E792-40D7-A033-82928F4D3D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC0C2E-E792-40D7-A033-82928F4D3D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC0C2E-E792-40D7-A033-82928F4D3D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC0C2E-E792-40D7-A033-82928F4D3D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDF45AA-71A2-4C53-9827-6A0F235910F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDF45AA-71A2-4C53-9827-6A0F235910F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDF45AA-71A2-4C53-9827-6A0F235910F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDF45AA-71A2-4C53-9827-6A0F235910F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
