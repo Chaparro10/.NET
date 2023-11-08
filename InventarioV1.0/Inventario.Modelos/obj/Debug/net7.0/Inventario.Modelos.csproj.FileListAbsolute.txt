@@ -1,0 +1,17 @@
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Modelos.deps.json
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Modelos.runtimeconfig.json
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Modelos.dll
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Modelos.pdb
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Utilidades.dll
+C:\.NET\InventarioV1.0\Inventario.Modelos\bin\Debug\net7.0\Inventario.Utilidades.pdb
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.csproj.AssemblyReference.cache
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.AssemblyInfoInputs.cache
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.AssemblyInfo.cs
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.csproj.CoreCompileInputs.cache
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.csproj.CopyComplete
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.dll
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\refint\Inventario.Modelos.dll
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.pdb
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\Inventario.Modelos.genruntimeconfig.cache
+C:\.NET\InventarioV1.0\Inventario.Modelos\obj\Debug\net7.0\ref\Inventario.Modelos.dll
