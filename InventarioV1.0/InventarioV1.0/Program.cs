@@ -1,4 +1,6 @@
 using Inventario.AccesoDatos.Data;
+using Inventario.AccesoDatos.Repositorio;
+using Inventario.AccesoDatos.Repositorio.IRepositorio;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,7 +18,13 @@ builder.Services.AddControllersWithViews();
 //SERVICIO DE RAZOR 
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
+//SERVICIO UNIDAD DE TRABAJO
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
+
 var app = builder.Build();
+
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
